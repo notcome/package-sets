@@ -3,25 +3,26 @@ let packages =
       ⫽ ./groups/purescript-contrib.dhall
       ⫽ ./groups/purescript-web.dhall
       ⫽ ./groups/purescript-node.dhall
-      ⫽ ./groups/AlexaDeWit.dhall
-      ⫽ ./groups/LiamGoodacre.dhall
-      ⫽ ./groups/LukaJCB.dhall
-      ⫽ ./groups/MichaelXavier.dhall
-      ⫽ ./groups/SodiumFRP.dhall
-      ⫽ ./groups/Thimoteus.dhall
+      ⫽ ./groups/alexadewit.dhall
+      ⫽ ./groups/liamgoodacre.dhall
+      ⫽ ./groups/lukajcb.dhall
+      ⫽ ./groups/michaelxavier.dhall
+      ⫽ ./groups/sodiumfrp.dhall
+      ⫽ ./groups/thimoteus.dhall
       ⫽ ./groups/adkelley.dhall
       ⫽ ./groups/ajnsit.dhall
       ⫽ ./groups/athanclark.dhall
       ⫽ ./groups/anttih.dhall
       ⫽ ./groups/bodil.dhall
       ⫽ ./groups/brandonhamilton.dhall
+      ⫽ ./groups/bucketchain.dhall
       ⫽ ./groups/cdepillabout.dhall
       ⫽ ./groups/citizennet.dhall
       ⫽ ./groups/cprussin.dhall
       ⫽ ./groups/epost.dhall
       ⫽ ./groups/ethul.dhall
       ⫽ ./groups/fehrenbach.dhall
-      ⫽ ./groups/felixSchl.dhall
+      ⫽ ./groups/felixschl.dhall
       ⫽ ./groups/felixmulder.dhall
       ⫽ ./groups/garyb.dhall
       ⫽ ./groups/gcanti.dhall
@@ -46,13 +47,13 @@ let packages =
       ⫽ ./groups/paf31.dhall
       ⫽ ./groups/paluh.dhall
       ⫽ ./groups/passy.dhall
+      ⫽ ./groups/purescript-freedom.dhall
       ⫽ ./groups/purescript-spec.dhall
       ⫽ ./groups/reactormonk.dhall
       ⫽ ./groups/rnons.dhall
       ⫽ ./groups/sharkdp.dhall
       ⫽ ./groups/slamdata.dhall
       ⫽ ./groups/spicydonuts.dhall
-      ⫽ ./groups/thomashoneyman.dhall
       ⫽ ./groups/truqu.dhall
       ⫽ ./groups/zaquest.dhall
 
